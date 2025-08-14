@@ -1,35 +1,39 @@
 # Bug Report - Sprints.com Quiz Crash
 
-## 📌 Description
+## 📌 Project Overview
 Website crashes after quiz submission, preventing display of quiz results.  
 The system incorrectly marks the quiz as completed and automatically advances the student to the next module without allowing review of the current module’s content.  
 The user must reload the page and check the quiz again to see the results.
 
----
+## 🎯 Objectives
+- Test a selected feature manually.
+- Identify functional issues or unexpected behavior.
+- Document the bug with proper reporting standards.
+
+## 🛠 Tools Used
+- Excel (for Test Cases & Bug Report)
+- Manual Testing techniques
+- Screenrecord for evidence
 
 ## 📂 Project Structure
 ```
-Sprints_Quiz_Bug/
-├── Screenshots/
-│   └── quiz_crash.png
+Booking.com-Feature-Testing/
+│
+├── README.md
+├── Test_Case.xlsx
 ├── Bug_Report.xlsx
-└── Notes/
+├── Screenrecordes/
+├── Notes/
     └── Test_Charter.md
 ```
 
----
+## 📑 Deliverables
+- **Test_Case.xlsx** → Contains all test cases with expected & actual results.
+- **Bug_Report.xlsx** → Formal bug report including reproduction steps and severity.
+- **Screenrecords/** → Evidence for each step & bug found.
+- **Test_Charter.md** → Summary of testing scope, objectives, and notes.
 
-## 📸 Screenshot Handling Best Practice
-In the Excel Bug Report, use a **thumbnail** linked via **Hyperlink** to the original screenshot in the `Screenshots/` folder.  
-This keeps the file size small while allowing high-quality full-size image viewing when needed.
+## 🧑‍💻 Author
+- Youssef Zaafan
+- [LinkedIn](https://www.linkedin.com/in/youssef-zaafan-211482169/)
 
----
-
-## 📅 Date Reported
-2025-08-14
-
----
-
-## 👤 Author
-Youssef Zaafan  
-[LinkedIn Profile](https://www.linkedin.com/in/youssef-zaafan-211482169)
